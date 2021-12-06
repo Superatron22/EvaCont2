@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Continua2Cordova</string>
+    <string name="LoginText">Login</string>
+    <string name="Sign_Up_Text">Sign Up</string>
+    <string name="username_text">Ussername</string>
+    <string name="password_text">Password</string>
+    <string name="slogan_text">Best Social App to make new friends</string>
+    <string name="passwordError">Password must contain al least 6 characters</string>
+    <string name="social_name">Name</string>
+    <string name="social_description">Descrption</string>
+</resources>
